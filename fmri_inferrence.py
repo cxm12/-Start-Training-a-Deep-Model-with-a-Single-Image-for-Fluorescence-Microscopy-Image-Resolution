@@ -1,5 +1,5 @@
 import os
-from deepinterpolation.generic import JsonSaver, ClassLoader
+from deepmodel.generic import JsonSaver, ClassLoader
 import datetime
 
 now = datetime.datetime.now()
