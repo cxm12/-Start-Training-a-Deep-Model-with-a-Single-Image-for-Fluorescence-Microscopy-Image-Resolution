@@ -1,4 +1,4 @@
-import deepinterpolation as de
+import deepmodel as de
 import os
 from deepinterpolation.generic import JsonSaver, ClassLoader, JsonLoader
 import datetime
